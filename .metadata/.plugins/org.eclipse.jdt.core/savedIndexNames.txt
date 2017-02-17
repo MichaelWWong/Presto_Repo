@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\michael.wong\eclipse\Presto workspace\.metadata\.plugins\org.eclipse.jdt.core
+2053230987.index
